@@ -91,6 +91,9 @@ h5 {
 
 h6 {
   font-size: 16px;
+  margin: 0 0;
+  padding-bottom: 0px;
+  line-height: 1;
 }
 
 p {
@@ -239,8 +242,10 @@ th {
  }
 
 td {
-  padding: 5px;
+  margin-top: 0px;	
+  padding: 0px;
   border: 0px solid #373737;
+  vertical-align: top;
  }
 
 form {
