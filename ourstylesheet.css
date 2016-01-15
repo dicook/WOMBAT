@@ -39,11 +39,6 @@ ol, ul {
   list-style: none;
 }
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
@@ -243,7 +238,7 @@ th {
 
 td {
   margin-top: 0px;	
-  padding: 0px;
+  padding:0 5px 0 5px;
   border: 0px solid #373737;
   vertical-align: top;
  }
